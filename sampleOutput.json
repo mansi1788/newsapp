@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Amy B Wang, Mariana Alfaro, Azi Paybarah, Patrick Svitek, Maegan Vazquez, Isaac Arnsdorf, Meryl Kornfield, Will Oremus, Marianne LeVine, Caroline Kitchener, Leigh Ann Caldwell, Theodoric Meyer, Yasmeen Abutaleb, Marianna Sotomayor, Jacqueline Alemany, Missy Ryan, Michael Birnbaum, Emily Rauhala, Ellen Nakashima",
+        "title": "Election 2024 latest news: Pelosi urges Biden to make a decision on future. He says he already has. - The Washington Post",
+        "description": "Live updates from the 2024 campaign trail with the latest news on presidential candidates, polls, primaries and more.",
+        "url": "https://www.washingtonpost.com/politics/2024/07/10/election-2024-campaign-updates/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVVCFTM3J4P6KCCLZDDJ6HMOTU.JPG&w=1440",
+        "publishedAt": "2024-07-10T14:41:18Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "The Wall Street Journal",
+        "title": "First F-16 Jet Fighters on Their Way to Ukraine, U.S. and Allies Say - The Wall Street Journal",
+        "description": null,
+        "url": "https://www.wsj.com/world/first-f-16-jet-fighters-on-their-way-to-ukraine-u-s-and-allies-say-943b9ba4",
+        "urlToImage": null,
+        "publishedAt": "2024-07-10T13:36:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Stephen Collinson",
+        "title": "Biden buys time but Democratic senator warns he could lose in ‘landslide’ - CNN",
+        "description": "Joe Biden’s refusal to step aside stifled attempts to push him off the Democratic ticket on Tuesday.",
+        "url": "https://www.cnn.com/2024/07/10/politics/biden-democratic-lawmakers-analysis/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-07-07t223233z-38326351-rc2mq8aa70ab-rtrmadp-3-usa-election-biden.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-07-10T13:19:00Z",
+        "content": "President Joe Biden on Tuesday clung onto the Democratic nomination on a high-stakes day in Washington, but the risks of his refusal to step aside were laid bare when one of his partys senators warne… [+11989 chars]"
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": null,
+        "title": "Intuit to Cut 10% of Employees in Latest Round of Tech Layoffs - Bloomberg",
+        "description": null,
+        "url": "https://www.bloomberg.com/news/articles/2024-07-10/intuit-to-cull-10-of-employees-in-latest-round-of-tech-layoffs",
+        "urlToImage": null,
+        "publishedAt": "2024-07-10T13:15:39Z",
+        "content": "To continue, please click the box below to let us know you're not a robot."
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Gaza airstrike hit as displaced gathered for soccer match, witnesses say - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/middle-east/israel-presses-gaza-offensive-hours-after-deadly-airstrike-tent-camp-2024-07-10/",
+        "urlToImage": null,
+        "publishedAt": "2024-07-10T13:12:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5google.com"
+        },
+        "author": "Andrew Romero",
+        "title": "Samsung’s Galaxy Watch 7 delivers Wear OS 5 and health tracking upgrades from $299 - 9to5Google",
+        "description": "Samsung has announced the Galaxy Watch 7, its latest Wear OS smartwatch which delivers a handful of small upgrades over its predecessor.",
+        "url": "http://9to5google.com/2024/07/10/samsung-galaxy-watch-7-specs-price-release-date/",
+        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/galaxy-watch-7-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-07-10T13:04:00Z",
+        "content": "Samsung is now ready to unveil the next in its long-standing smartwatch series the Galaxy Watch 7 and Watch 7 Ultra, with the series delivering welcome upgrades and staying at the same price point.l\r… [+1883 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": null,
+        "title": "Samsung’s Galaxy Ring, its first smart ring, arrives July 24 for $399 - TechCrunch",
+        "description": null,
+        "url": "https://techcrunch.com/2024/07/10/samsungs-galaxy-ring-its-first-smart-ring-arrives-july-24-for-399/",
+        "urlToImage": null,
+        "publishedAt": "2024-07-10T13:04:00Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Allison Johnson",
+        "title": "The Galaxy Z Fold 6 and Flip 6 come with minor updates and higher prices - The Verge",
+        "description": "The Galaxy Z Fold 6 comes with a slightly wider cover screen, and the Z Flip 6 gets a little more feature parity with an upgraded camera and larger battery.",
+        "url": "https://www.theverge.com/2024/7/10/24195165/samsung-galaxy-z-fold-flip-6-screen-battery-price",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/eNVUYKrfjrOL8x9KVNKx4iGmieU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25524158/DSCF8089.jpg",
+        "publishedAt": "2024-07-10T13:00:00Z",
+        "content": "The Galaxy Z Fold 6 and Flip 6 come with minor updates and higher prices\r\nThe Galaxy Z Fold 6 and Flip 6 come with minor updates and higher prices\r\n / Spec bumps and price hikes.\r\nByAllison Johnson, … [+3866 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "OregonLive"
+        },
+        "author": "Dr. Keith Roach",
+        "title": "Dear Doctor: Patient has done well on diabetes medication for several years, but lately it's always on backor - OregonLive",
+        "description": "Some treatments for diabetes also tend to promote weight loss and reduce the risk of heart disease. Consequently, they are in high demand.",
+        "url": "https://www.oregonlive.com/advice/2024/07/dear-doctor-patient-has-done-well-on-diabetes-medication-for-several-years-but-lately-its-always-on-backorder-why.html",
+        "urlToImage": "https://www.oregonlive.com/resizer/v2/XO2IEWUVDNDF7JODY2R2VK6RJE.jpeg?auth=33129d0a56609d03df508665cef6ef16b2c8c1cb2448b3e8876a307e73e85282&width=1280&quality=90",
+        "publishedAt": "2024-07-10T13:00:00Z",
+        "content": "DEAR DR. ROACH: My husband has Type 2 diabetes and has been on Trulicity for a few years with great results. Lately, when its time for refills, the pharmacies are saying that its on back order and no… [+3184 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Josephine Rozzelle",
+        "title": "With Chevron reversal, Supreme Court paves way for a 'legal earthquake' - CNBC",
+        "description": "More than 19,000 past federal court cases cite the landmark 1984 Chevron ruling, which the Supreme Court just overturned.",
+        "url": "https://www.cnbc.com/2024/07/10/supreme-court-post-chevron-legal-chaos.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108000262-17198414412024-07-01t132806z_868914763_rc27m8ajfup8_rtrmadp_0_usa-court.jpeg?v=1720622406&w=1920&h=1080",
+        "publishedAt": "2024-07-10T12:57:19Z",
+        "content": "Four days after the Supreme Court ruled in the case of Loper Bright Enterprises vs. Raimondo, overturning the 40-year-old precedent known as the Chevron deference, the justices announced they would b… [+4078 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Financial Times",
+        "title": "Nancy Pelosi urges Joe Biden to ‘make a decision’ quickly on presidential race - Financial Times",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2UwODBiM2IwLTgxY2QtNGY0MS1hZGRlLWFmN2JlYWIyNTgyYtIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-07-10T12:57:12Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JUAN A. LOZANO, MARK VANCLEAVE",
+        "title": "Houston residents stew and swelter after storm Beryl leaves millions without power - The Associated Press",
+        "description": "The return of searing heat in the Houston area has deepened the misery for people still without power after Hurricane Beryl. The storm left residents in search of places to cool off and fuel up Wednesday as the extended outages strained one of the nation’s la…",
+        "url": "https://apnews.com/article/houston-power-outages-beryl-ceb5fdc1db4d89d2376abb22bfd45d99",
+        "urlToImage": "https://dims.apnews.com/dims4/default/9b34573/2147483647/strip/true/crop/5000x2813+0+379/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2Fee%2F075afd04caa352faabb53626d2b8%2F560d7de5a45749e6bc05ef43ca13578d",
+        "publishedAt": "2024-07-10T12:51:00Z",
+        "content": "HOUSTON (AP) The return of searing heat in the Houston area has deepened the misery for people still without power after Hurricane Beryl left residents in search of places to cool off and fuel up as … [+2584 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Scott Thompson",
+        "title": "Giants GM pleads with Saquon Barkley to give team last call in free agency, HBO's 'Hard Knocks' shows - Fox News",
+        "description": "Before Saquon Barkley eventually signed with the Philadelphia Eagles in free agency, New York Giants GM Joe Schoen asked the running back to give him the last call.",
+        "url": "https://www.foxnews.com/sports/giants-gm-pleads-saquon-barkley-give-team-last-call-free-agency-hbos-hard-knocks-shows",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Joe-Schoen-Saquon-Barkley.png",
+        "publishedAt": "2024-07-10T11:57:00Z",
+        "content": "HBOs \"Hard Knocks\" has provided a different look at an NFL franchise this year, with the New York Giants offseason roster building on full display with behind-the-scenes access. \r\nOne of the things N… [+2713 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Attempted carjacker shot outside Supreme Court Justice Sonia Sotomayor's home - BBC.com",
+        "description": "The incident happened outside Justice Sonia Sotomayor’s home when an armed man approached a US Marshal's car.",
+        "url": "https://www.bbc.com/news/articles/c1we6xy7q7qo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7bf5/live/abef1380-3ea6-11ef-8778-2143088d857f.jpg",
+        "publishedAt": "2024-07-10T11:39:19Z",
+        "content": "A Deputy US Marshal shot a would-be carjacker while he was guarding Supreme Court Justice Sonia Sotomayors home in Washington DC, authorities said.\r\nThe man was shot after approaching the car the off… [+1815 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Mike Florio",
+        "title": "In excusing Ollie Gordon’s arrest, Mike Gundy seems to admit he’s driven drunk 1,000 times - NBC Sports",
+        "description": "At some point after his memorable \"I'm a man, I'm forty!\"",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/in-excusing-ollie-gordons-arrest-mike-gundy-seems-to-admit-hes-driven-drunk-1-000-times",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/757d0c7/2147483647/strip/true/crop/6292x3539+0+328/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2Fcf%2F8da256ca48c28fdb068f3fa5a00c%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D23709384",
+        "publishedAt": "2024-07-10T11:33:19Z",
+        "content": "At some point after his memorable Im a man, Im forty! rant, Oklahoma State coach Mike Gundy began to morph into a caricature. Hes now on the verge of becoming a full-blown joke.\r\nIn explaining his de… [+2783 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "Reality bites for Gen X retirement - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2024/07/10/gen-x-retirement-savings-americans-survey",
+        "urlToImage": null,
+        "publishedAt": "2024-07-10T11:32:03Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Mark Schlabach",
+        "title": "Rory on U.S. letdown: 'Great day until it wasn't' - ESPN",
+        "description": "Bogeys on three of the last four holes dashes Rory McIlroy's chances at the U.S. Open, but the world No. 2 says he \"got over it pretty quickly.\"",
+        "url": "https://www.espn.com/golf/story/_/id/40531569/rory-mcilroy-says-moved-us-open-collapse",
+        "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0617%2Fr1346768_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-07-10T11:12:00Z",
+        "content": "NORTH BERWICK, Scotland -- More than three weeks after his collapse in the final three holes of the U.S. Open at Pinehurst No. 2, Rory McIlroy on Wednesday called the final round a \"great day until i… [+4493 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Jess Weatherbed",
+        "title": "Thousands of Samsung workers launch indefinite strike over pay - The Verge",
+        "description": "Unionized workers at Samsung Electronics in South Korea have indefinitely extended the first-ever strike at the company in a push for better pay and benefits.",
+        "url": "https://www.theverge.com/2024/7/10/24195541/samsung-union-launch-indefinite-strike-ai-chips-pay",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/QAYKa82QzBLUJA2-sbD_Wn_mJeg=/0x0:7186x4658/1200x628/filters:focal(3593x2329:3594x2330)/cdn.vox-cdn.com/uploads/chorus_asset/file/25524712/2160498481.jpg",
+        "publishedAt": "2024-07-10T10:57:15Z",
+        "content": "Thousands of Samsung workers launch indefinite strike over pay\r\nThousands of Samsung workers launch indefinite strike over pay\r\n / Unionized South Korean workers at Samsung Electronics aim to disrupt… [+2388 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Phys.org",
+        "title": "New incompletely rifted microcontinent identified between Greenland and Canada - Phys.org",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDI0LTA3LWluY29tcGxldGVseS1yaWZ0ZWQtbWljcm9jb250aW5lbnQtZ3JlZW5sYW5kLWNhbmFkYS5odG1s0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-07-10T10:50:01Z",
+        "content": null
+      }
+    ]
+  }
